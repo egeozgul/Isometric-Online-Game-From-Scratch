@@ -1,0 +1,2 @@
+FPS: 1
+nSprites: 3

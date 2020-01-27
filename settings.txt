@@ -1,0 +1,4 @@
+nTiles: 40
+nAnimations: 3
+tilesPanelWidth: 5
+tilesPanelHeight: 5
