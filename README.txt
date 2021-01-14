@@ -1,15 +1,7 @@
-# MakerClubWebsite
+# Map Editor ScreenShot
+![levelEditor](/levelEditor.png)
 
-![sample](/images/webpage.png)
-
-Welcome to the official website of the UAA Maker Club
-
-This website will contain projects from our members
-
-[https://egeozgul.github.io/MakerClubWebsite/](https://egeozgul.github.io/MakerClubWebsite/)
-
-
-
+# Controls
 w,a,s,d camera pan
 q,e zoom
 
@@ -19,7 +11,7 @@ k: delete sprite
 p: save all
 
 IMPORTANT:
-Explaining the "aa.txt" file
+Explanation of the "aa.txt" file:
 first number is the number of sprites in the OBJECT folder
 second numberis the number of sprites in the TILES folder
 third number is the maximum number of sprites displayed on a single row on the sprite selection region.
