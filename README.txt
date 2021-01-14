@@ -1,5 +1,6 @@
-# Map Editor ScreenShot
 ![levelEditor](levelEditor.png)
+
+# Map Editor ScreenShot
 
 # Controls
 w,a,s,d camera pan
