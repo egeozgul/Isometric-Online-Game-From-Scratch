@@ -1,8 +1,7 @@
+# Map Editor ScreenShot
 ![levelEditor](levelEditor.png)
 
-# Map Editor ScreenShot
-
-# Controls
+## Controls
 w,a,s,d camera pan
 q,e zoom
 
@@ -11,7 +10,7 @@ mouse right click: put sprite on the map
 k: delete sprite
 p: save all
 
-IMPORTANT:
+## Notes:
 Explanation of the "aa.txt" file:
 first number is the number of sprites in the OBJECT folder
 second numberis the number of sprites in the TILES folder
