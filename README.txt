@@ -1,5 +1,5 @@
 # Map Editor ScreenShot
-![alt text](/levelEditor.png)
+![alt text](https://raw.githubusercontent.com/egeozgul/Isometric-Online-Game-using-custom-game-engine/master/levelEditor.png)
 
 # Controls
 w,a,s,d camera pan
