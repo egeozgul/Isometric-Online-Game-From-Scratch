@@ -1,3 +1,15 @@
+# MakerClubWebsite
+
+![sample](/images/webpage.png)
+
+Welcome to the official website of the UAA Maker Club
+
+This website will contain projects from our members
+
+[https://egeozgul.github.io/MakerClubWebsite/](https://egeozgul.github.io/MakerClubWebsite/)
+
+
+
 w,a,s,d camera pan
 q,e zoom
 
